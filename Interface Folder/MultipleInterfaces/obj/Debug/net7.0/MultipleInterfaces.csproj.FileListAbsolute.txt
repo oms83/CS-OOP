@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\bin\Debug\net7.0\MultipleInterfaces.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\bin\Debug\net7.0\MultipleInterfaces.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\bin\Debug\net7.0\MultipleInterfaces.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\bin\Debug\net7.0\MultipleInterfaces.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\bin\Debug\net7.0\MultipleInterfaces.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\refint\MultipleInterfaces.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\MultipleInterfaces.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultipleInterfaces\obj\Debug\net7.0\ref\MultipleInterfaces.dll

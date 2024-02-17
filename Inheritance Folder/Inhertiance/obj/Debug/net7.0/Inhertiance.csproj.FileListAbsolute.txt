@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\bin\Debug\net7.0\Inhertiance.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\bin\Debug\net7.0\Inhertiance.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\bin\Debug\net7.0\Inhertiance.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\bin\Debug\net7.0\Inhertiance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\bin\Debug\net7.0\Inhertiance.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\refint\Inhertiance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\Inhertiance.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Inhertiance\obj\Debug\net7.0\ref\Inhertiance.dll

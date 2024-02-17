@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\bin\Debug\net7.0\StaticPropertiesAndStaticClass.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\bin\Debug\net7.0\StaticPropertiesAndStaticClass.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\bin\Debug\net7.0\StaticPropertiesAndStaticClass.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\bin\Debug\net7.0\StaticPropertiesAndStaticClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\bin\Debug\net7.0\StaticPropertiesAndStaticClass.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\refint\StaticPropertiesAndStaticClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\StaticPropertiesAndStaticClass.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticPropertiesAndStaticClass\obj\Debug\net7.0\ref\StaticPropertiesAndStaticClass.dll

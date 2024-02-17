@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{0E57A7F3-41B3-4029-86AA-712B5B92C189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalssLibrary", "..\MyCalssLibrary\MyCalssLibrary.csproj", "{CD4EFE9B-DDA1-4F7A-AA85-39BE627BFF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E57A7F3-41B3-4029-86AA-712B5B92C189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E57A7F3-41B3-4029-86AA-712B5B92C189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E57A7F3-41B3-4029-86AA-712B5B92C189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E57A7F3-41B3-4029-86AA-712B5B92C189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4EFE9B-DDA1-4F7A-AA85-39BE627BFF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4EFE9B-DDA1-4F7A-AA85-39BE627BFF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4EFE9B-DDA1-4F7A-AA85-39BE627BFF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4EFE9B-DDA1-4F7A-AA85-39BE627BFF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435D2F80-6273-4E64-A013-5FF011D388B3}
+	EndGlobalSection
+EndGlobal

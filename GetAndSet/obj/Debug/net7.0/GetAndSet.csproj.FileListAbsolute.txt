@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\bin\Debug\net7.0\GetAndSet.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\bin\Debug\net7.0\GetAndSet.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\bin\Debug\net7.0\GetAndSet.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\bin\Debug\net7.0\GetAndSet.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\bin\Debug\net7.0\GetAndSet.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\refint\GetAndSet.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\GetAndSet.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\GetAndSet\obj\Debug\net7.0\ref\GetAndSet.dll

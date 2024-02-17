@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\bin\Debug\net7.0\AutoImplementedProperties.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\bin\Debug\net7.0\AutoImplementedProperties.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\bin\Debug\net7.0\AutoImplementedProperties.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\bin\Debug\net7.0\AutoImplementedProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\bin\Debug\net7.0\AutoImplementedProperties.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\refint\AutoImplementedProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\AutoImplementedProperties.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\AutoImplementedProperties\obj\Debug\net7.0\ref\AutoImplementedProperties.dll

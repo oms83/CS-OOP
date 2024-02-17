@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\bin\Debug\net7.0\Parameter_less_Constructor.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\bin\Debug\net7.0\Parameter_less_Constructor.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\bin\Debug\net7.0\Parameter_less_Constructor.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\bin\Debug\net7.0\Parameter_less_Constructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\bin\Debug\net7.0\Parameter_less_Constructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\refint\Parameter_less_Constructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\Parameter_less_Constructor.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Parameter_less_Constructor\obj\Debug\net7.0\ref\Parameter_less_Constructor.dll

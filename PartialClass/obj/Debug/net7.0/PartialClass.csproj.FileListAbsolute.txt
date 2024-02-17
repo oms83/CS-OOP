@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\bin\Debug\net7.0\PartialClass.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\bin\Debug\net7.0\PartialClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll

@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\bin\Debug\net7.0\Destructor.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\bin\Debug\net7.0\Destructor.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\bin\Debug\net7.0\Destructor.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\bin\Debug\net7.0\Destructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\bin\Debug\net7.0\Destructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\refint\Destructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\Destructor.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\Destructor\obj\Debug\net7.0\ref\Destructor.dll

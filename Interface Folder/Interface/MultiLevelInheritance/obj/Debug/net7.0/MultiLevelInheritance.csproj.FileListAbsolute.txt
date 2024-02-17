@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\bin\Debug\net7.0\MultiLevelInheritance.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\bin\Debug\net7.0\MultiLevelInheritance.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\bin\Debug\net7.0\MultiLevelInheritance.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\bin\Debug\net7.0\MultiLevelInheritance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\bin\Debug\net7.0\MultiLevelInheritance.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\refint\MultiLevelInheritance.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\MultiLevelInheritance.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\MultiLevelInheritance\obj\Debug\net7.0\ref\MultiLevelInheritance.dll

@@ -1,0 +1,6 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\bin\Debug\MyCalssLibrary.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\bin\Debug\MyCalssLibrary.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\obj\Debug\MyCalssLibrary.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\obj\Debug\MyCalssLibrary.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\obj\Debug\MyCalssLibrary.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyCalssLibrary\obj\Debug\MyCalssLibrary.pdb

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omerm\\Desktop\\OMS\\PROGRAMING\\C# Language\\Programming Advices\\OPP\\Constructor\\RealLifeApplicationOfUsingStaticAndConstructors\\RealLifeApplicationOfUsingStaticAndConstructors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omerm\\Desktop\\OMS\\PROGRAMING\\C# Language\\Programming Advices\\OPP\\Constructor\\RealLifeApplicationOfUsingStaticAndConstructors\\RealLifeApplicationOfUsingStaticAndConstructors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerm\\Desktop\\OMS\\PROGRAMING\\C# Language\\Programming Advices\\OPP\\Constructor\\RealLifeApplicationOfUsingStaticAndConstructors\\RealLifeApplicationOfUsingStaticAndConstructors.csproj",
+        "projectName": "RealLifeApplicationOfUsingStaticAndConstructors",
+        "projectPath": "C:\\Users\\omerm\\Desktop\\OMS\\PROGRAMING\\C# Language\\Programming Advices\\OPP\\Constructor\\RealLifeApplicationOfUsingStaticAndConstructors\\RealLifeApplicationOfUsingStaticAndConstructors.csproj",
+        "packagesPath": "C:\\Users\\omerm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerm\\Desktop\\OMS\\PROGRAMING\\C# Language\\Programming Advices\\OPP\\Constructor\\RealLifeApplicationOfUsingStaticAndConstructors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

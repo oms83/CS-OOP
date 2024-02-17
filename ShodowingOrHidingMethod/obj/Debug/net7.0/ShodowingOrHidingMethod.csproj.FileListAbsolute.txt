@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\bin\Debug\net7.0\ShodowingOrHidingMethod.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\bin\Debug\net7.0\ShodowingOrHidingMethod.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\bin\Debug\net7.0\ShodowingOrHidingMethod.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\bin\Debug\net7.0\ShodowingOrHidingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\bin\Debug\net7.0\ShodowingOrHidingMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\refint\ShodowingOrHidingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ShodowingOrHidingMethod.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\ShodowingOrHidingMethod\obj\Debug\net7.0\ref\ShodowingOrHidingMethod.dll

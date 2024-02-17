@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\bin\Debug\net7.0\StaticMember.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\bin\Debug\net7.0\StaticMember.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\bin\Debug\net7.0\StaticMember.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\bin\Debug\net7.0\StaticMember.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\bin\Debug\net7.0\StaticMember.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\refint\StaticMember.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\StaticMember.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\StaticMember\obj\Debug\net7.0\ref\StaticMember.dll

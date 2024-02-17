@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\bin\Debug\net7.0\ReadOnlyProperties.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\bin\Debug\net7.0\ReadOnlyProperties.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\bin\Debug\net7.0\ReadOnlyProperties.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\bin\Debug\net7.0\ReadOnlyProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\bin\Debug\net7.0\ReadOnlyProperties.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\refint\ReadOnlyProperties.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ReadOnlyProperties.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\ReadOnlyProperties\obj\Debug\net7.0\ref\ReadOnlyProperties.dll

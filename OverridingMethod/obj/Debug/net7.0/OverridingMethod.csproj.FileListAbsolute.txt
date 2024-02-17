@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\bin\Debug\net7.0\OverridingMethod.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\bin\Debug\net7.0\OverridingMethod.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\bin\Debug\net7.0\OverridingMethod.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\bin\Debug\net7.0\OverridingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\bin\Debug\net7.0\OverridingMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\refint\OverridingMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\OverridingMethod.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\OverridingMethod\obj\Debug\net7.0\ref\OverridingMethod.dll

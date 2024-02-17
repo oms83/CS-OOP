@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\bin\Debug\net7.0\StaticConstructor.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\bin\Debug\net7.0\StaticConstructor.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\bin\Debug\net7.0\StaticConstructor.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\bin\Debug\net7.0\StaticConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\bin\Debug\net7.0\StaticConstructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\refint\StaticConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\StaticConstructor.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\StaticConstructor\obj\Debug\net7.0\ref\StaticConstructor.dll

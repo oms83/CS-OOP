@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\bin\Debug\net7.0\DefaultConstructor.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\bin\Debug\net7.0\DefaultConstructor.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\bin\Debug\net7.0\DefaultConstructor.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\bin\Debug\net7.0\DefaultConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\bin\Debug\net7.0\DefaultConstructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\refint\DefaultConstructor.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\DefaultConstructor.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\DefaultConstructor\obj\Debug\net7.0\ref\DefaultConstructor.dll

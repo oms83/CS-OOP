@@ -1,0 +1,14 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\bin\Debug\MyClassLibraryProject.exe.config
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\bin\Debug\MyClassLibraryProject.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\bin\Debug\MyClassLibraryProject.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\bin\Debug\MyCalssLibrary.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\bin\Debug\MyCalssLibrary.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.Form1.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.Properties.Resources.resources
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.csproj.GenerateResource.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.csproj.CopyComplete
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\MyClassLibraryProject\obj\Debug\MyClassLibraryProject.pdb

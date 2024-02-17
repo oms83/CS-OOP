@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\bin\Debug\net7.0\CalculatorProject.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\bin\Debug\net7.0\CalculatorProject.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\bin\Debug\net7.0\CalculatorProject.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\bin\Debug\net7.0\CalculatorProject.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\bin\Debug\net7.0\CalculatorProject.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\refint\CalculatorProject.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\CalculatorProject.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\CalculatorProject\obj\Debug\net7.0\ref\CalculatorProject.dll

@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\bin\Debug\net7.0\PartialMethod.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\bin\Debug\net7.0\PartialMethod.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\bin\Debug\net7.0\PartialMethod.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\bin\Debug\net7.0\PartialMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\bin\Debug\net7.0\PartialMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\refint\PartialMethod.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\PartialMethod.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\PartialMethod\obj\Debug\net7.0\ref\PartialMethod.dll

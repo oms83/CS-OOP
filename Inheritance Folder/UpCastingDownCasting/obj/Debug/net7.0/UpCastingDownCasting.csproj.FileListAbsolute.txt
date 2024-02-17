@@ -1,0 +1,15 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\bin\Debug\net7.0\UpCastingDownCasting.exe
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\bin\Debug\net7.0\UpCastingDownCasting.deps.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\bin\Debug\net7.0\UpCastingDownCasting.runtimeconfig.json
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\bin\Debug\net7.0\UpCastingDownCasting.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\bin\Debug\net7.0\UpCastingDownCasting.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.AssemblyInfoInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.AssemblyInfo.cs
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\refint\UpCastingDownCasting.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\UpCastingDownCasting.genruntimeconfig.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\OPP\Constructor\UpCastingDownCasting\obj\Debug\net7.0\ref\UpCastingDownCasting.dll
